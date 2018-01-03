@@ -1,0 +1,18 @@
+/*# sourceMappingURL=bootstrap.css.map */
+
+
+body {
+  background: $bgc;
+}
+
+.left{
+  background: #ccc;
+}
+
+.right{
+  background: #00ff00;
+}
+
+.center{
+  background: #ff0000;
+}
